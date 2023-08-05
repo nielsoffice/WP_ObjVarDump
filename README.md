@@ -1,5 +1,5 @@
 # WP_ObjVarDump
-WordPress var_dump safe hook to extract object data.  
+WordPress var_dump safe hook to extract object data, get_current_screen
 
 ```PHP
  // Admin Hook: https://developer.wordpress.org/reference/hooks/admin_notices/
